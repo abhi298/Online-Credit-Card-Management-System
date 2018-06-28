@@ -18,9 +18,8 @@ public class aboutus extends HttpServlet
 		out.println("<h3 align=center><font face=Times new roman color=navy>About us</font></h3>");
 		out.println("<font face='Times new roman' size=4>");
 		out.println("<p>Hai<br><br>");
-		out.println("<a href='http://localhost:8080/servlet/homepage'><img align=right src='d:/student/madhav/project/home3.gif'></a>");
+		out.println("<a href='http://localhost:8080/servlet/homepage'><img align=right src='d:/student/abhishek/project/home3.gif'></a>");
 		out.println("</body>");
 		out.println("<html>");
 		out.close();
   	 }
-}
