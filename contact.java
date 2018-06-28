@@ -26,7 +26,7 @@ public class contact extends HttpServlet
 		out.println("E-mail:mrbhaga@yahoo.co.in<br>");
 		out.println("<a href='http://localhost:8080/servlet/homepage'><img align=right src='d:/student/madhav/project/home3.gif'></a>");
 		out.println("</body>");
-		out.println("<html>");
+		out.println("</html>");
 		out.close();
   	 }
 }
