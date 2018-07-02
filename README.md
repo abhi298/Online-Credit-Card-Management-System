@@ -1,6 +1,6 @@
 Cyber-Credit-Card-System
 
-This is a Mini-Project in Java. Title : Cyber Credit Card System.
+This is a Project in Java. Title : Cyber Credit Card System.
 
 It creates a Payment Gateway to make online transactions. User needs to be a member of this Cyber Credit Card System to use the facility.
 
